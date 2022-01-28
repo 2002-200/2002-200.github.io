@@ -1,0 +1,101 @@
+body{
+	text-align: center;
+}
+div{
+	background-color: slateblue;
+    font-family: sans-serif;
+    color: lightblue;
+}
+
+.button{
+	background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+button[type=submit]{
+	background-color: #6A5ACD;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+body{
+	background-color: rebeccapurple;/
+	opacity: 0.3;/
+}
+*{
+	color: white;
+}
+h2{
+	font-size: 50px;
+	font-family: cursive;
+}
+h3{
+	font-size: 20px;
+	font-family: cursive;
+}
+b{
+	font-family: sans-serif;
+}
+
+label{
+	font-size: 17px;
+
+	font-family: cursive;
+}
+input[type="text"]{
+	width: 40%;
+	line-height: 40px;
+	background-color: antiquewhite;
+	opacity: 30%;
+	color: black;
+	font-family: sans-serif ;
+	font-size: 20px;
+
+}
+
+input[type="tel"]{
+	width: 40%;
+	line-height: 40px;
+	background-color: antiquewhite;
+	opacity: 30%;
+	color: black;
+	font-family: sans-serif ;
+	font-size: 20px;
+
+}
+
+input[type="email"]{
+	width: 40%;
+	line-height: 40px;
+	background-color: antiquewhite;
+	opacity: 30%;
+	color: black;
+	font-family: sans-serif ;
+	font-size: 20px;
+
+}
+
+textarea{
+	width: 40%;
+	line-height: 40px;
+	background-color: antiquewhite;
+	opacity: 30%;
+	color: black;
+	font-family: sans-serif ;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+
+
+
